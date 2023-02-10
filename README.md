@@ -1,2 +1,5 @@
-# curso2Coursera
-Projeto do curso de ambientação ao github
+# Certificado IBM em Data Science
+## Curso 2
+### Coursera
+
+Projeto do segundo curso, segunda semana, ambientação ao github
